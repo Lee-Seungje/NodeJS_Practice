@@ -9,6 +9,16 @@
             "date": 1673357885044,
             "name": "C:\\nodejs\\logs\\2023-01-10.exception.log",
             "hash": "68b743c0fe44c897ff9d114068200a21efcec43a0489102a868a4673ff2434a9"
+        },
+        {
+            "date": 1673446243030,
+            "name": "C:\\nodejs\\logs\\2023-01-11.exception.log",
+            "hash": "af745fc7bb7e332fae787f1f1fc8f2b51fb3c1bd36c7214f3d97cfd38ced5845"
+        },
+        {
+            "date": 1673602405165,
+            "name": "C:\\nodejs\\logs\\2023-01-13.exception.log",
+            "hash": "8918eafdae3a4fe67e00ed532057d43673726821946a15bb55f1336dea522f2d"
         }
     ],
     "hashType": "sha256"

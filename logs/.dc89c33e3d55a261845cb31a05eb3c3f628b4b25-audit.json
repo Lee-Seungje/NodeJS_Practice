@@ -9,6 +9,16 @@
             "date": 1673358003135,
             "name": "C:\\nodejs\\logs\\2023-01-10.error.log",
             "hash": "7d937e69afddd438ab35f2752d969887dfa2a6b937af4a1797bb9124752e484c"
+        },
+        {
+            "date": 1673446243023,
+            "name": "C:\\nodejs\\logs\\2023-01-11.error.log",
+            "hash": "7b08f3312f7e3ab22ded3ca8bf589338b2f428b558ca12e2aca3b87586bd51a3"
+        },
+        {
+            "date": 1673602405161,
+            "name": "C:\\nodejs\\logs\\2023-01-13.error.log",
+            "hash": "c3e4d27181b52723e206bae33e2a5ded19650eff7a0fa05fe2ed5399e655f314"
         }
     ],
     "hashType": "sha256"
