@@ -19,6 +19,11 @@
             "date": 1673602405161,
             "name": "C:\\nodejs\\logs\\2023-01-13.error.log",
             "hash": "c3e4d27181b52723e206bae33e2a5ded19650eff7a0fa05fe2ed5399e655f314"
+        },
+        {
+            "date": 1673700592588,
+            "name": "C:\\nodejs\\logs\\2023-01-14.error.log",
+            "hash": "6897a152157a59a7c2b55891352b5c9bcf4a109cc5e503daa2c29f8be93b9171"
         }
     ],
     "hashType": "sha256"
