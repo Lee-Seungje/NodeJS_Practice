@@ -9,7 +9,7 @@ const set = (s) => {
     rule.minute = s.minute;
 
     let job = schedule.scheduleJob(rule, () => {
-        console.log('하하');
+        console.log('성공');
     });
 
     scheduleObj = job;
@@ -27,8 +27,8 @@ const setScheduler = (s) => {
 };
 
 const scheduleData = {
-    dayOfWeek: [4, 5],
-    hour: 20,
-    minute: 53,
+    dayOfWeek: [3, 4],
+    hour: 21,
+    minute: 4,
 };
 setScheduler(scheduleData);
