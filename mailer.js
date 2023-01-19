@@ -21,7 +21,7 @@ const send = async (opction) => {
 
 let email_data = {
     from: 's22050@gsm.hs.kr',
-    to: `s22046@gsm.hs.kr`,
+    to: `s22000@gsm.hs.kr`,
     subject: '오늘 롤할거임 ㅋ',
     html: `<h1>롤 할거야</h1>
     <img src="https://image2.compuzone.co.kr/img/recom_image/37/recom.png"/>`,
