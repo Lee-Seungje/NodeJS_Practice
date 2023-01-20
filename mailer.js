@@ -21,13 +21,15 @@ const send = async (opction) => {
 
 let email_data = {
     from: 's22050@gsm.hs.kr',
-    to: `s22000@gsm.hs.kr`,
-    subject: '오늘 롤할거임 ㅋ',
-    html: `<h1>롤 할거야</h1>
+    to: `jambung@naver.com`,
+    subject: '이메일 전송 테스트',
+    html: `<h1>이메을에 사진을 첨부</h1>
     <img src="https://image2.compuzone.co.kr/img/recom_image/37/recom.png"/>`,
 };
 
-for (let i = 38; i <= 56; i++) {
-    email_data.to = `s220${i}@gsm.hs.kr`;
-    send(email_data);
-}
+// for (let i = 38; i <= 56; i++) {
+//     email_data.to = `s220${i}@gsm.hs.kr`;
+//     send(email_data);
+// }
+
+send(email_data);
